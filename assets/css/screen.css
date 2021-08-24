@@ -26,7 +26,8 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #99E6D8;
+    /* color: #99E6D8; */
+    color: #EF4871;
     transition: all 0.2s;
 }
 
