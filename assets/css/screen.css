@@ -317,6 +317,8 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: 'yrt_nice_weatherregular';
+    color: #EF4871;
+    /* color: #99E6D8; */
 }
 
 .mainheading h1.posttitle {
