@@ -19,7 +19,7 @@ License: https://www.wowthemes.net/freebies-license/
 
 .text-title-cusom {
     color: #EF4871;
-    font-family: 'yrt_nice_weatherregular';
+    /* font-family: 'yrt_nice_weatherregular'; */
 }
 
 .mainheading {
@@ -34,7 +34,7 @@ a {
 
 a:hover {
     color: #99E6D8;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 pre {
