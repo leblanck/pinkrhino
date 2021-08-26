@@ -34,13 +34,12 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
+- {icon: "ion-logo-twitch", link: "https://www.twitch.tv/toplessnachoss"}
+- {icon: "ion-logo-steam", link: "https://steamcommunity.com/id/ToplessNachos/"}
 - {icon: "ion-logo-twitter", link: "https://twitter.com/kyleblanc"}
 - {icon: "ion-logo-dribbble", link: "https://dribbble.com/kyleblanc"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/kyleblanc"}
 - {icon: "ion-logo-github", link: "https://github.com/leblanck"}
-- {icon: "ion-logo-twitch", link: "https://www.twitch.tv/toplessnachoss"}
-- {icon: "ion-logo-steam", link: "https://steamcommunity.com/id/ToplessNachos/"}
-
 
 #-------------------------------
 # Comment Section (Disqus)
