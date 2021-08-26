@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/desk_header2.JPG'
+image: '/images/headers/desk_header2.jpg'
 ---
 
 Hi, my name is Kyle LeBlanc! 
