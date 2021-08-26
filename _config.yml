@@ -1,25 +1,25 @@
 #-------------------------------
 # General Site Settings
-title: LEBLANC.SH
+title: PINK RHINO STUDIO
 logo: # You can add own logo. For example '/images/logo.png'.
-description:   LeBlanc.sh is a blog about tech.
+description:   Pink Rhino Studio is an Indie Game Development Studio
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://leblanc.sh" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://pinkrhino.studio" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
   name: Kyle LeBlanc
-  avatar: '/images/avatar.jpg'
+  avatar: '/images/self_avatar.JPG'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Kyle LeBlanc
-  description: Thoughts. Ideas. Experiments.
-  image: '/images/uns1.jpg'
+  title: PINK RHINO
+  description: Indie Game Developmeny Journey
+  image: '/images/rhino_cover.jpg'
 
 
 #-------------------------------
@@ -38,7 +38,7 @@ social:
 - {icon: "ion-logo-dribbble", link: "https://dribbble.com/kyleblanc"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/kyleblanc"}
 - {icon: "ion-logo-github", link: "https://github.com/leblanck"}
-- {icon: "ion-logo-twitch", link: "https://www.twitch.tv/h0undz__"}
+- {icon: "ion-logo-twitch", link: "https://www.twitch.tv/toplessnachoss"}
 - {icon: "ion-logo-steam", link: "https://steamcommunity.com/id/ToplessNachos/"}
 
 
