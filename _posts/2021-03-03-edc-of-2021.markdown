@@ -1,0 +1,62 @@
+---
+layout: post
+title: 2021 EDC
+date: 2021-03-03 09:13:56 -0500
+tags: [EDC, Everyday-Carry]
+image:  '/images/covers/cover34.jpg'
+description: My updated EDC for 2021
+featured: true
+---
+
+This past year has certainly taught me one thing: **be prepared for anything.** You never know what situation
+you will find yourself in, maybe I need a Phillips head screwdriver, or a flash light, or a USB drive,
+etc. 2021 is the year I vow to try and be prepared for as many situations as possible.
+
+After bringing inspiration from my own day-to-day life and from some interesting collections on [Everyday Carry](https://everydaycarry.com), I have
+put together an EDC set of my own. This is broken down into 2 sets: True EDC, and Extended EDC. My True EDC is a set of tools
+I truly bring with my every-time I leave the house, honestly they are with me as long as I am wearing pants. My Extended EDC is a kit I bring with me
+when I am heading out for the day and plan to be out for an extended period of time (>1 hour-ish). 
+
+### True EDC
+
+* Leatherman Skeletool CX
+* Fenix E12 V2.0
+* Casio G-Shock GBD800UC-5
+* iPhone 11 Pro
+* Burt's Bees Chapstick
+
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/covers/cover33.jpg">
+      <img src="/images/covers/cover34.jpg">
+    </div>
+  </div>
+
+
+  <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/edc_1.jpg">
+      <img src="/images/edc_2.jpg">
+    </div>
+  </div>
+
+### Extended EDC
+
+* Field Notes Notebook
+* Bic Mini Lighter
+* Band-Aids
+* Safety Pins
+* Verbatim 16 GB USB-C Drive
+* Cash
+* Sharpie
+* Extra AA Battery
+* Bear Edge Knife - Backup
+* VANQUEST PPM-Husky 2.0
+
+  <!-- <div class="gallery-box">
+    <div class="gallery">
+      <img src="/images/covers/cover33.jpg">
+      <img src="/images/covers/cover33.jpg">
+      <img src="/images/covers/cover33.jpg">
+    </div>
+  </div> -->
