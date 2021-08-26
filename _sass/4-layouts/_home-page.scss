@@ -48,7 +48,7 @@
     padding: 2px 4px;
     font-size: 20px;
     border-radius: 4px;
-    color: $dark;
+    color: $light-gray;
     background: rgba(255,255,255, 0.08);
     pointer-events: none;
     @media only screen and (max-width: $mobile) {
@@ -62,7 +62,7 @@
   font-size: 28px;
   line-height: 1;
   a {
-    color: $dark;
+    color: $brand-color;
   }
   @media only screen and (max-width: $mobile) {
     font-size: 24px;
@@ -166,7 +166,7 @@
     border-radius: 24px;
     color: $gray;
     &:hover {
-      color: $dark;
+      color: $gray;
       border-color: $brand-color;
     }
   }
@@ -196,9 +196,9 @@
   }
   &-link {
     font-size: 12px;
-    color: $dark;
+    color: $gray;
     &:hover {
-      color: $dark;
+      color: $gray;
     }
   }
   span {
