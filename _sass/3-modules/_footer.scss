@@ -119,7 +119,7 @@
     color: $gray;
     &:hover {
       border-color: $brand-color;
-      color: $white;
+      color: $gray;
     }
   }
 }
@@ -199,7 +199,7 @@
   color: $gray;
   a {
     font-weight: 500;
-    color: $alt-brand-color;
+    color: $brand-color;
     &:hover {
       color: $brand-color;
     }
