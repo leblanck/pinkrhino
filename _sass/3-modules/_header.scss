@@ -114,7 +114,7 @@
         letter-spacing: 1px;
         text-transform: uppercase;
         text-decoration: none;
-        color: $text-color;
+        color: $white;
         &:hover {
           color: $brand-color;
         }
@@ -214,7 +214,7 @@
   z-index: 100;
   opacity: 0;
   visibility: hidden;
-  background-color: $dark;
+  background-color: $brand-color;
   transition: all 0.5s ease-in-out;
   &.is-open {
     opacity: 1;
@@ -223,7 +223,7 @@
   @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
     -webkit-backdrop-filter: saturate(180%) blur(24px);
     backdrop-filter: saturate(180%) blur(24px);
-    background-color: rgba($dark, .9);
+    background-color: rgba($brand-color, .9);
   }
   @media only screen and (min-width: $desktop) {
     display: none;
