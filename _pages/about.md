@@ -26,7 +26,7 @@ This blog is intended to serve as a place to share my findings, research, though
 ### Misc:
 * iPad Pro M1 w/ Apple Pencil 2
 
-![PC](https://p1.builds.gg/builds_pictures/30000/30261/189469/189469_1000.jpg)
+![PC](/images/pc.jpg)
 
 
 Feel free to take a look at some of my other spots on the internet:
