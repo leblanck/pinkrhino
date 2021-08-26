@@ -16,12 +16,16 @@ featured: true
 
 ### Problem
 
-I recently got fed up with getting tangled in the wire of my wired headset during a meeting. It had in-line volume control that I would always hit when trying to un-tangle and turn the volume to 0 causing me to miss conversation during meetings. My solution: get a wireless headset! I am switching from a Razer Kraken in Black to the Corsair Virtuoso RGB Wireless Headset in White. 
-
-I am not going to go very in-depth with this review, there are better reviews for that and some excellent YouTube videos that cover these in depth. Here are some that informed my own buying decision: [JayzTwoCents](https://www.youtube.com/watch?v=zDPU1XmgQpk), [HardwareCanucks](https://www.youtube.com/watch?v=hXw_kI1tKvs&feature=emb_title)
+This may be a simple problem, but it stumped me for quite a while when creating my first C++ based prject in Unreal Engine 4. I continued to receive the above error regardless of how I thought I had installed VS, updated UE4, re-installed both, etc.  Turns out all I needed was a fresh install of the .NET SDK. (duh)
 
 ### Solution
 
-As we all know style is a very subjective thing, and I will vote that these are pretty visually appealing. They are substantially less obnoxious than other "gaming" headsets which I personally thing is a huge win. I purchased the white version, to match all of my other peripherals and with the RGB option I was able to get them to match perfectly which is always a fun/nice bonus. 
+![SDK Install](/images/SDKInstall.PNG)
 
-![All matching peripherals](/image/SDKInstall.PNG)
+The solution to this issue happens to be an outdated (or missing) version of .NET & the .NET SDK Framework. To update this you can follow the below instructions:
+
+* Launch Microsoft Visual Studio Installer
+* Next to your installed version of VS select Modify
+* Select the 'Individual Components' Tab and mark the checkbox next to the latest version of the .NET SDK
+
+
