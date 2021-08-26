@@ -1,35 +1,28 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
-comments: true
+title: About
+permalink: /about/
+image: '/images/me.JPG'
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+Hi, my name is Kyle LeBlanc! 
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+I am a Senior Mac System Engineer from New England. I have been in IT professionally since 2010, built my first PC in 2008, and vividly remember the first time I went to Google and learning to double-click on an old square track-ball mouse in 1990-something. 
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+This blog is intended to serve as a place to share my findings, research, thoughts, and expirements with all (most) things technical. I primarily focus on macOS, Jamf, Enterprise IT, and PC Building. Just becuase these are my primary focuses, does not mean I won't post about other things as well - I'm trying to not put myself into a subject box. 
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+Nowhere on this blog do I claim to know everything - please take all scripts, policies, config profiles, etc with a grain of salt, YMMV. That being said, if you know of a better way to do something, or see errors in my work, please reach out! I am always learning, exploring, and evolving. 
 
-<h4>Questions or bug reports?</h4>
+**I like:** loud music, [running](https://gorun.myportfolio.com), the ocean, lots of coffee, early mornings, traveling, thrifting <br/>
+**I dislike:** pretentiousness, greed, the dentist, artichokes
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+Feel free to take a look at some of my other spots on the internet:
+* Photography: [kyleblanc.com](https://kyleblanc.com)
+* Freelance Design: [kyleblanc.design](https://kyleblanc.design)
+* Freelance Development: [kyleblanc.dev](https://kyleblanc.dev)
 
-</div>
+----
 
-<div class="col-md-4">
+_**Disclaimer:**_ Ideas are my own and the views on this blog to not represent my employer. 
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+<hr>
