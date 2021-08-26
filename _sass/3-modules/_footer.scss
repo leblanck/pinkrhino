@@ -94,6 +94,10 @@
     width: 28px;
     height: 28px;
   }
+
+  .article_minutes {
+    color: $dark;
+  }
 }
 
 // Widget Explore Tags
@@ -152,10 +156,10 @@
     transition: border-color .2s ease-in-out;
     cursor: text;
     &::placeholder {
-      color: $light-gray;
+      color: $gray;
     }
     &:focus {
-      color: $white;
+      color: $gray;
       border-color: $brand-color;
     }
   }
