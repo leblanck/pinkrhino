@@ -236,6 +236,10 @@
   overflow-y: auto;
 }
 
+.nav-grid a:hover {
+  color: $text-color;
+}
+
 .nav-grid__item {
   margin-bottom: 30px;
   @media only screen and (max-width: $tablet) {
