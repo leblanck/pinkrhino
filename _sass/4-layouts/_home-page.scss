@@ -86,7 +86,7 @@
   height: 100%;
   overflow: hidden;
   user-select: none;
-  background-color: $dark;
+  background-color: $light-gray;
 
   &::after {
     content: "";
@@ -162,11 +162,11 @@
     font-weight: 500;
     text-transform: capitalize;
     letter-spacing: -0.5px;
-    border: 2px solid rgba($white, 0.4);
+    border: 2px solid rgba($alt-brand-color, 0.4);
     border-radius: 24px;
     color: $gray;
     &:hover {
-      color: $white;
+      color: $dark;
       border-color: $brand-color;
     }
   }
