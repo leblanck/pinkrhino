@@ -143,9 +143,9 @@
 
   &-link {
     font-size: 13px;
-    color: $white;
+    color: $dark;
     &:hover {
-      color: $white;
+      color: $dark;
     }
   }
 
@@ -299,6 +299,7 @@
     }
 
     .post__nav-box {
+      color: $white;
       position: relative;
       z-index: 1;
       width: 100%;
