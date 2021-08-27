@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SDK .NET Error when creating new UE4 C++ Project
-date: 2021-03-04 10:37:16 -0500
+date: 2021-08-26 10:37:16 -0500
 tags: [Troubleshooting, UE4, SDK, .NET, Engine]
 image:  '/images/SDKInstall.PNG'
 description: SDK, SMH 
