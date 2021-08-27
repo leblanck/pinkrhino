@@ -17,8 +17,20 @@ Below you can see my very first 3D creations which are all included shapes in Bl
   <div class="gallery-box">
     <div class="gallery">
       <img src="/images/blender00.png">
+    </div>
+  </div>
+  <div class="gallery-box">
+    <div class="gallery">
       <img src="/images/blender01.png">
+    </div>
+  </div>
+  <div class="gallery-box">
+    <div class="gallery">
       <img src="/images/blender02.png">
+    </div>
+  </div>
+  <div class="gallery-box">
+    <div class="gallery">
       <img src="/images/blender03.png">
     </div>
   </div>
