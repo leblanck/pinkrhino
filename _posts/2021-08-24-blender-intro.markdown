@@ -3,7 +3,7 @@ layout: post
 title: Learning Blender
 date: 2021-08-24 09:13:56 -0500
 tags: [Blender, Rendering, 3D, Introduction, Beginner]
-image:  '/images/covers/cover34.jpg'
+image:  '/images/render001.png'
 description: Dipping my toes into 3D art for the very first time. 
 featured: true
 ---
@@ -16,8 +16,10 @@ Below you can see my very first 3D creations which are all included shapes in Bl
 
   <div class="gallery-box">
     <div class="gallery">
-      <img src="/images/covers/cover33.jpg">
-      <img src="/images/covers/cover34.jpg">
+      <img src="/images/blender00.png">
+      <img src="/images/blender01.png">
+      <img src="/images/blender02.png">
+      <img src="/images/blender03.png">
     </div>
   </div>
 
