@@ -12,21 +12,23 @@ $global-transition: all .2s;
 // *****************
 // Color Variables
 // *****************
-// $brand-color: #ff7b7b;
-//$brand-color: #6DECAF;
-$brand-color: #EF4871;
+//$brand-color: #EF4871;
+$brand-color: #C777FA;
 $alt-brand-color: #99E6D8;
-$dark: #09080f;
+//$dark: #09080f;
+$dark: #0E1128;
 $blue-dark: #17151E;
-$gray: #aaa;
-$light-gray: #eee;
+$gray: #B6B7BE;
+//$gray: #aaa;
+$light-gray: #DBDEE3;
+//$light-gray: #eee;
 $white: #fff;
 
 // Body Color
 $text-color: $dark;
 
 // Background Colors
-$background-color: #eee;
+$background-color: $light-gray;
 
 
 // *****************
