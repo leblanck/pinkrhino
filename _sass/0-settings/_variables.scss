@@ -2,6 +2,8 @@
 // Global Variables
 // *****************
 
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@700&display=swap');
+
 // Spaces
 $base-spacing-unit: 20px;
 
@@ -44,6 +46,7 @@ $base-line-height: 1.7;
 // Headings
 $heading-font-weight: 900;
 $heading-font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
+$heading-font-family-mono: 'Fira Mono', monospace;
 $heading-color: $text-color;
 
 $font-size-h1:  36px;
