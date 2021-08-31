@@ -22,7 +22,7 @@
     font-size: 16px;
     font-weight: 700;
     line-height: 1;
-    background-color: $blue-dark;
+    background-color: $dark;
     &:hover {
       color: $dark;
       background-color: darken($brand-color, 5%);
@@ -43,7 +43,7 @@
     background-color: $dark;
 
     &:hover {
-      background-color: $blue-dark;
+      background-color: $dark;
     }
   }
 
