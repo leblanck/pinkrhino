@@ -114,12 +114,12 @@
     text-transform: capitalize;
     // border: 3px solid rgba(255,255,255,0.1);
     border: 3px solid;
-    border-color: $alt-brand-color;
+    border-color: $dark;
     border-radius: 24px;
     color: $gray;
     &:hover {
       border-color: $brand-color;
-      color: $gray;
+      color: $dark;
     }
   }
 }
@@ -148,7 +148,7 @@
     font-weight: 700;
     border-radius: 8px;
     color: $white;
-    background-color: $blue-dark;
+    background-color: $dark;
     border: 2px solid transparent;
     outline: 0;
     -webkit-appearance: none;
