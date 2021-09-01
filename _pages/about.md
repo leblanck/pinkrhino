@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 permalink: /about/
 image: '/images/headers/desk_header2.jpg'
 ---
