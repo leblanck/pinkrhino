@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Review - The Art of Doom Eternal
-date: 2021-09-02 13:16:39 -0500
+date: 2021-09-01 13:16:39 -0500
 tags: [Review, Book, Doom, Art Book]
 image: '/images/doomCover1.jpg'
 description: Rip, Tear, Drool over art.
