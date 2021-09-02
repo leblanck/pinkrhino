@@ -4,7 +4,7 @@ title: Book Review - The Art of Doom Eternal
 date: 2020-03-26 13:16:39 -0500
 tags: [Review, Book, Doom, Art Book]
 image: '/images/doomCover1.jpg'
-description: Creating a rolling (phased) update process similar to SCCM
+description: Rip, Tear, Drool over art.
 ---
 **Coming Soon!**
 
