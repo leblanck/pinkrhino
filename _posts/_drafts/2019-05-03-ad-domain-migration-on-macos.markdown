@@ -7,7 +7,7 @@ image:  '/images/covers/cover23.jpg'
 description: Migrating AD domains on macOS
 featured: true
 ---
-
+asdf
 Joining Windows machines to an AD domain is easy, intuitive, and downright simple. The same can't really be said for machines running macOS. The task of binding these devices to the same AD world that your Windows machines are on can be tricky and cumbersome, but this is becoming all the more common as macOS is taking up a larger seat in the enterprise/corporate world.
 
 So we know how finicky binding macOS to AD is, now imagine automating the process to swap from one AD to a new one, on almost 1,400 macOS machines.
