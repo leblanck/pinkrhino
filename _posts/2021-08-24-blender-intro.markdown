@@ -5,7 +5,7 @@ date: 2021-08-24 09:13:56 -0500
 tags: [Blender, Rendering, 3D, Introduction, Beginner]
 image:  '/images/render001.png'
 description: Dipping my toes into 3D art for the very first time. 
-featured: true
+featured: false
 ---
 
 I have always favored 3D games over 2D games. I vividly remember pulling all-nighters to play things like TES: Oblivion, Battlefield 2 & 2142, Halo 3, etc. These were all things that helped shape my teenage years. I knew as soon as I wanted to create a game that it would be a 3D game. Seems like there is no better place to start than with learning [Blender](https://www.blender.org). 
